@@ -31,7 +31,7 @@ Super basic style for customizing your components;
 [npm-downloads-href]: https://npm.chart.dev/my-module
 
 [license-src]: https://img.shields.io/npm/l/my-module.svg?style=flat&colorA=020420&colorB=00DC82
-[license-href]: https://npmjs.com/package/my-module
+[license-href]: https://github.com/JENGZY-devBoi/Jengzeus-ui/blob/main/LICENSE
 
 [nuxt-src]: https://img.shields.io/badge/Nuxt-020420?logo=nuxt.js
 [nuxt-href]: https://nuxt.com
