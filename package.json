@@ -2,7 +2,7 @@
     "name": "@jeng3zeus/jengzeus-ui",
     "repository": "https://github.com/JENGZY-devBoi/Jengzeus-ui",
     "description": "A basic for Web Apps, powered by Tailwind CSS.",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "packageManager": "pnpm@9.15.0",
     "license": "MIT",
     "type": "module",
