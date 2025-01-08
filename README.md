@@ -14,7 +14,10 @@ Find and replace all on all files (CMD+SHIFT+F):
 [![License][license-src]][license-href]
 [![Nuxt][nuxt-src]][nuxt-href]
 
-Super basic style for customizing your components;
+Jengzeus UI is a nuxt module build with Tailwind CSS
+
+## Concept
+> Not easy and very basic, BUT exciting to customize
 
 - [✨ &nbsp;Release Notes](/CHANGELOG.md)
 <!-- - [🏀 Online playground](https://stackblitz.com/github/your-org/my-module?file=playground%2Fapp.vue) -->
