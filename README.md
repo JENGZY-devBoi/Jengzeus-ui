@@ -7,14 +7,14 @@ Find and replace all on all files (CMD+SHIFT+F):
 - Description: My new Nuxt module
 -->
 
-# My Module
+# Jengzeus-ui
 
 [![npm version][npm-version-src]][npm-version-href]
 [![npm downloads][npm-downloads-src]][npm-downloads-href]
 [![License][license-src]][license-href]
 [![Nuxt][nuxt-src]][nuxt-href]
 
-My new Nuxt module for doing amazing things.
+Super basic style for customize your componts;
 
 - [✨ &nbsp;Release Notes](/CHANGELOG.md)
 <!-- - [🏀 Online playground](https://stackblitz.com/github/your-org/my-module?file=playground%2Fapp.vue) -->
