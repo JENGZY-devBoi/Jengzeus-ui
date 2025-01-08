@@ -24,13 +24,13 @@ Super basic style for customizing your components;
 
 
 <!-- Badges -->
-[npm-version-src]: https://img.shields.io/npm/v/my-module/latest.svg?style=flat&colorA=020420&colorB=00DC82
-[npm-version-href]: https://npmjs.com/package/my-module
+[npm-version-src]: https://img.shields.io/npm/v/@jeng3zeus/jengzeus-ui/latest.svg?style=flat&colorA=020420&colorB=00DC82
+[npm-version-href]: https://www.npmjs.com/package/@jeng3zeus/jengzeus-ui
 
-[npm-downloads-src]: https://img.shields.io/npm/dm/my-module.svg?style=flat&colorA=020420&colorB=00DC82
-[npm-downloads-href]: https://npm.chart.dev/my-module
+[npm-downloads-src]: https://img.shields.io/npm/dm/@jeng3zeus/jengzeus-ui.svg?style=flat&colorA=020420&colorB=00DC82
+[npm-downloads-href]: https://www.npmjs.com/package/@jeng3zeus/jengzeus-ui
 
-[license-src]: https://img.shields.io/npm/l/my-module.svg?style=flat&colorA=020420&colorB=00DC82
+[license-src]: https://img.shields.io/github/license/JENGZY-devBoi/Jengzeus-ui.svg?style=flat&colorA=020420&colorB=00DC82
 [license-href]: https://github.com/JENGZY-devBoi/Jengzeus-ui/blob/main/LICENSE
 
 [nuxt-src]: https://img.shields.io/badge/Nuxt-020420?logo=nuxt.js
