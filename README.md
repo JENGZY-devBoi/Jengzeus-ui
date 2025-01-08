@@ -16,6 +16,10 @@ Find and replace all on all files (CMD+SHIFT+F):
 
 Jengzeus UI is a nuxt module build with Tailwind CSS
 
+# Features
+- Build with Tailwind CSS
+- Custom with tailwind class
+
 ## Concept
 > Not easy and very basic, BUT exciting to customize
 
