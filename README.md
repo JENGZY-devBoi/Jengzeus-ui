@@ -24,9 +24,6 @@ Jengzeus UI is a nuxt module build with Tailwind CSS
 > Not easy and very basic, BUT exciting to customize
 
 - [✨ &nbsp;Release Notes](/CHANGELOG.md)
-<!-- - [🏀 Online playground](https://stackblitz.com/github/your-org/my-module?file=playground%2Fapp.vue) -->
-<!-- - [📖 &nbsp;Documentation](https://example.com) -->
-
 </details>
 
 
